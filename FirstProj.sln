@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeiyuusInsertGeneration", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OriginsInsertGeneration", "OriginsInsertGeneration\OriginsInsertGeneration.csproj", "{E84B6F00-60BC-4052-A97F-2BD19BD377B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimesInsertGenreation", "AnimesInsertGenreation\AnimesInsertGenreation.csproj", "{E03A4770-E9A3-4B40-9D1B-51C189A956FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimesInsertGenreation", "AnimesInsertGenreation\AnimesInsertGenreation.csproj", "{E03A4770-E9A3-4B40-9D1B-51C189A956FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimeGenreMappingInsertGeneration", "AnimeGenreMappingInsertGeneration\AnimeGenreMappingInsertGeneration.csproj", "{84A53417-967C-454A-9C72-2ADF47E7ADFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{E03A4770-E9A3-4B40-9D1B-51C189A956FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E03A4770-E9A3-4B40-9D1B-51C189A956FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E03A4770-E9A3-4B40-9D1B-51C189A956FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84A53417-967C-454A-9C72-2ADF47E7ADFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A53417-967C-454A-9C72-2ADF47E7ADFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A53417-967C-454A-9C72-2ADF47E7ADFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A53417-967C-454A-9C72-2ADF47E7ADFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
